@@ -86,6 +86,5 @@ public class Mainclass {
 		System.out.println("Sortieren und Ausgeben des Arrays");
 		heapSort(arr);
 		printArray(arr);
-		
 	}
 }
