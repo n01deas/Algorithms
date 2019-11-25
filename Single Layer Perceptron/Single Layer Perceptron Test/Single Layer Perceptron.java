@@ -38,5 +38,4 @@ public class SingleLayerPerceptron {
 		
 		System.out.println(o1.getValue());
 	}
-
 }
